@@ -25,4 +25,5 @@
     <engine name="android" spec="~6.1.2" />
     <plugin name="cordova-plugin-whitelist" spec="https://github.com/apache/cordova-plugin-whitelist" />
     <plugin name="cordova-plugin-ms-adal" spec="~0.9.0" />
+    <engine name="ios" spec="~4.3.1" />
 </widget>
